@@ -31,7 +31,7 @@
 
 ### 💻 erd 모델링 캡쳐 화면
 
-
+<img width="1115" alt="exerd 모델링 사진 캡쳐" src="https://github.com/kimyeongini/zerobase_study18_assignment/assets/129055860/3e38b898-111a-429f-9e2b-be2ef8905b07">
 
 
 #### 💪 아쉬운 점(느낀 점)
